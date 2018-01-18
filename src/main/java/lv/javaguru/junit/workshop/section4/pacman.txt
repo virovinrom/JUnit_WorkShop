@@ -1,2 +1,0 @@
-Coding kata: PacMan
-http://codingdojo.org/kata/PacMan/
